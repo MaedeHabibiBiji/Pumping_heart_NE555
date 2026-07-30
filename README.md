@@ -20,7 +20,7 @@ A heart-shaped LED circuit based on the NE555 timer IC. The schematic was design
 <img src="schematic.jpg" width="600">
 
 ## 🧊 3D Render
-<img src="PumpingHeart.png" width="650">
+<img src="3d-render.png" width="650">
 
 ## 📂 Repository Contents
 - Project photos
