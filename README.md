@@ -2,9 +2,7 @@
 A heart-shaped LED circuit based on the NE555 timer IC. The schematic was designed in KiCad, and the circuit was physically assembled and tested on a perfboard.
 ## Project Photo
 <img src="assembled.jpg" width="450">
-## Features
 
- 
 ## Features
 - ❤️ Heart-shaped LED design
 - 🔴 Red LEDs ×11 
