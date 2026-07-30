@@ -4,9 +4,6 @@ A heart-shaped LED circuit based on the NE555 timer IC. The schematic was design
   ## Project Photo
 <img src="assembled.jpg" width="450">
 
-## 📄 Schematic
-<img src="schematic.jpg" width="600">
-
 ## 🔧 Components
 | Component | Quantity |
 |-----------|---------:|
@@ -18,3 +15,6 @@ A heart-shaped LED circuit based on the NE555 timer IC. The schematic was design
 | 9V Battery | 1 |
 | 9V Battery Clip | 1 |
 | Perfboard | 1 |
+
+## 📄 Schematic
+<img src="schematic.jpg" width="600">
