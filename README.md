@@ -1,9 +1,7 @@
 # ❤️ Pumping Heart with NE555
 A heart-shaped LED circuit based on the NE555 timer IC. The schematic was designed in KiCad, and the circuit was physically assembled and tested on a perfboard.
 ## Project Photo
-
 ![Assembled Pumping Heart](Images/assembled.jpg)
-
 ## Features
 
  
