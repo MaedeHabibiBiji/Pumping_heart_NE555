@@ -22,6 +22,12 @@ A heart-shaped LED circuit based on the NE555 timer IC. The schematic was design
 ## 🧊 3D Render
 <img src="PumpingHeart.png" width="650">
 
+## 📂 Repository Contents
+- Project photos
+- KiCad schematic (.kicad_sch)
+- KiCad PCB layout (.kicad_pcb)
+
+
 ## 🎥 Demo Video
 Watch the project in action on [Instagram](https://www.instagram.com/reel/DZ0QzJlIRi4/?igsh=MWNmbDQyamxqZWV5Mg==)
 
